@@ -6,6 +6,8 @@ https://go-tour-br.appspot.com/basics/1
 
 https://go-tour-br.appspot.com/flowcontrol/1
 
+https://go-tour-br.appspot.com/flowcontrol/8
+
 
 // after tour
 https://gowebexamples.com/
